@@ -9,8 +9,11 @@
 		<meta name="viewport" content="width=device-width, user-scalable=no" />
 		
 		<link href="style.css" rel="stylesheet" type="text/css">
+<<<<<<< HEAD
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 
+=======
+>>>>>>> b3dacea09ff430bf4988b594f3098ed8216df35c
 	</head>
 
 	<body>
@@ -31,6 +34,7 @@
 		<script type="text/javascript">
 		
 		</script>
+<<<<<<< HEAD
 		var count = 30;
 var counter = setInterval(timer, 1000); 
 
@@ -65,6 +69,10 @@ function showPosition(position) {
     alert(position.coords.latitude);
     alert(position.coords.longitude);
 }
+=======
+		<script type="text/javascript">
+		
+>>>>>>> b3dacea09ff430bf4988b594f3098ed8216df35c
 		</script>
 	</body>
 </html>
